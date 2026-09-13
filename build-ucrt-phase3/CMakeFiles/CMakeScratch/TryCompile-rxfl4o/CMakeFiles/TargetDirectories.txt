@@ -1,0 +1,3 @@
+C:/Users/rusel_5mliqzd/Downloads/AnitoPlume-master/anitoplumev2/build-ucrt-phase3/CMakeFiles/CMakeScratch/TryCompile-rxfl4o/CMakeFiles/cmTC_931b0.dir
+C:/Users/rusel_5mliqzd/Downloads/AnitoPlume-master/anitoplumev2/build-ucrt-phase3/CMakeFiles/CMakeScratch/TryCompile-rxfl4o/CMakeFiles/edit_cache.dir
+C:/Users/rusel_5mliqzd/Downloads/AnitoPlume-master/anitoplumev2/build-ucrt-phase3/CMakeFiles/CMakeScratch/TryCompile-rxfl4o/CMakeFiles/rebuild_cache.dir

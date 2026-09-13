@@ -1,0 +1,42 @@
+Start testing: Sep 13 00:46 Malay Peninsula Standard Time
+----------------------------------------------------------
+1/2 Testing: foundation_startup
+1/2 Test: foundation_startup
+Command: "C:/Users/rusel_5mliqzd/Downloads/AnitoPlume-master/anitoplumev2/build-make/anitoplumev2.exe"
+Directory: C:/Users/rusel_5mliqzd/Downloads/AnitoPlume-master/anitoplumev2/build-make
+"foundation_startup" start time: Sep 13 00:46 Malay Peninsula Standard Time
+Output:
+----------------------------------------------------------
+AnitoPlumeV2 0.1.0 foundation
+Dependency discovery:
+  Vulkan: not found
+  GLFW: not found
+  GLM: not found
+  VMA: not found
+  Dear ImGui: not found
+Terrain mesh not found: src/assets/terrains/Taal-Spherical-2_0.obj
+Vulkan renderer: unavailable (install Vulkan and GLFW development packages)
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"foundation_startup" end time: Sep 13 00:46 Malay Peninsula Standard Time
+"foundation_startup" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: terrain_loader
+2/2 Test: terrain_loader
+Command: "C:/Users/rusel_5mliqzd/Downloads/AnitoPlume-master/anitoplumev2/build-make/terrain_loader_test.exe" "C:/Users/rusel_5mliqzd/Downloads/AnitoPlume-master/anitoplumev2/src/tests/fixtures/triangle.obj"
+Directory: C:/Users/rusel_5mliqzd/Downloads/AnitoPlume-master/anitoplumev2/build-make
+"terrain_loader" start time: Sep 13 00:46 Malay Peninsula Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"terrain_loader" end time: Sep 13 00:46 Malay Peninsula Standard Time
+"terrain_loader" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 13 00:46 Malay Peninsula Standard Time

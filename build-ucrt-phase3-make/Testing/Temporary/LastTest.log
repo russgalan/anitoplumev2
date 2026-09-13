@@ -1,0 +1,57 @@
+Start testing: Sep 13 08:10 Malay Peninsula Standard Time
+----------------------------------------------------------
+1/3 Testing: foundation_startup
+1/3 Test: foundation_startup
+Command: "C:/Users/rusel_5mliqzd/Downloads/AnitoPlume-master/anitoplumev2/build-ucrt-phase3-make/anitoplumev2.exe" "--single-frame"
+Directory: C:/Users/rusel_5mliqzd/Downloads/AnitoPlume-master/anitoplumev2
+"foundation_startup" start time: Sep 13 08:10 Malay Peninsula Standard Time
+Output:
+----------------------------------------------------------
+AnitoPlumeV2 0.1.0 foundation
+Dependency discovery:
+  Vulkan: available
+  GLFW: available
+  GLM: available
+  VMA: available
+  Dear ImGui: not found
+Taal terrain assets: validated
+Terrain: 46329 vertices, 91120 triangles
+<end of output>
+Test time =   3.05 sec
+----------------------------------------------------------
+Test Passed.
+"foundation_startup" end time: Sep 13 08:10 Malay Peninsula Standard Time
+"foundation_startup" time elapsed: 00:00:03
+----------------------------------------------------------
+
+2/3 Testing: terrain_loader
+2/3 Test: terrain_loader
+Command: "C:/Users/rusel_5mliqzd/Downloads/AnitoPlume-master/anitoplumev2/build-ucrt-phase3-make/terrain_loader_test.exe" "C:/Users/rusel_5mliqzd/Downloads/AnitoPlume-master/anitoplumev2/src/tests/fixtures/triangle.obj"
+Directory: C:/Users/rusel_5mliqzd/Downloads/AnitoPlume-master/anitoplumev2
+"terrain_loader" start time: Sep 13 08:10 Malay Peninsula Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"terrain_loader" end time: Sep 13 08:10 Malay Peninsula Standard Time
+"terrain_loader" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/3 Testing: plume_simulation
+3/3 Test: plume_simulation
+Command: "C:/Users/rusel_5mliqzd/Downloads/AnitoPlume-master/anitoplumev2/build-ucrt-phase3-make/plume_simulation_test.exe"
+Directory: C:/Users/rusel_5mliqzd/Downloads/AnitoPlume-master/anitoplumev2/build-ucrt-phase3-make
+"plume_simulation" start time: Sep 13 08:10 Malay Peninsula Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"plume_simulation" end time: Sep 13 08:10 Malay Peninsula Standard Time
+"plume_simulation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 13 08:10 Malay Peninsula Standard Time
